@@ -108,4 +108,4 @@ void loop() {
 
 The setup() function initializes the serial port and sets the initial strategies for each organ to cooperate. It then calls the runGame() function to run the game. The loop() function is empty, since all the action happens in the setup() function.
 
-This implementation of the organ game in Arduino uses evolutionary game theory to simulate the interactions between three organs: the heart, lungs, and kidney. It shows how the strategies of each organ evolve over time based on their payoffs, and how cooperation and competition can affect the overall functioning of the organism. By comparing the results of this simulation to the interactions between real organs, we can gain insights into
+This implementation of the organ game in Arduino uses evolutionary game theory to simulate the interactions between three organs: the heart, lungs, and kidney. It shows how the strategies of each organ evolve over time based on their payoffs, and how cooperation and competition can affect the overall functioning of the organism.
