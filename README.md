@@ -1,4 +1,4 @@
-Fleet — Exploring Evolutionary Game Theory
+# Fleet — Exploring Evolutionary Game Theory
 
 Evolutionary game theory is a framework for analyzing the interactions between individuals or groups in a population. It is used to study the evolution of cooperation and competition, and to understand the dynamics of social and economic systems.
 
